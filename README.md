@@ -26,3 +26,9 @@ class SomeFormRequest extends FormRequest
 }
 
 ```
+
+### Available rules:
+- CorrectPhone
+- CorrectOgrn
+- CorrectInn
+- CorrectSnils
