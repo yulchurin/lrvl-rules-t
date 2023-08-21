@@ -1,0 +1,23 @@
+{
+    "name": "mactape/la-rules",
+    "description": "Laravel rules for verifying the correctness of entered personal data",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^10.0",
+        "brick/phonenumber": "^0.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mactape\\LaRules\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tayfur Yulchurin",
+            "email": "yulchurin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
