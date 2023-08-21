@@ -1,6 +1,11 @@
 # lrvl-rules-t
 Laravel Rules for check personal data
 
+### Installation
+
+`composer require mactape/la-rules`
+
+
 ### Usage
 
 ```
