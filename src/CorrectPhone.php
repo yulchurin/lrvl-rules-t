@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Rules;
+namespace MacTape\LaRules;
 
 use Closure;
 use Brick\PhoneNumber\PhoneNumber;

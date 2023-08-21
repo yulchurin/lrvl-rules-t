@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Rules;
+namespace MacTape\LaRules;
 
 use Closure;
 use Illuminate\Contracts\Validation\ValidationRule;
